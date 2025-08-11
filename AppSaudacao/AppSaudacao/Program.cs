@@ -1,5 +1,4 @@
-﻿string nome, saudacao;
+﻿string nome;
 Console.WriteLine("Informe o seu nome: ");
 nome = Console.ReadLine();
-saudacao = "Seja bem-vindo " + nome + ", ao curso de P.O.O";
-Console.WriteLine(saudacao);
+Console.WriteLine("Seja bem-vindo " + nome + ", ao curso de P.O.O");
