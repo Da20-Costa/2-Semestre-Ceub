@@ -1,0 +1,14 @@
+C:\Users\davi.scosta\source\repos\AppAreaCircunferencia\AppAreaCircunferencia\bin\Debug\net8.0\AppAreaCircunferencia.exe
+C:\Users\davi.scosta\source\repos\AppAreaCircunferencia\AppAreaCircunferencia\bin\Debug\net8.0\AppAreaCircunferencia.deps.json
+C:\Users\davi.scosta\source\repos\AppAreaCircunferencia\AppAreaCircunferencia\bin\Debug\net8.0\AppAreaCircunferencia.runtimeconfig.json
+C:\Users\davi.scosta\source\repos\AppAreaCircunferencia\AppAreaCircunferencia\bin\Debug\net8.0\AppAreaCircunferencia.dll
+C:\Users\davi.scosta\source\repos\AppAreaCircunferencia\AppAreaCircunferencia\bin\Debug\net8.0\AppAreaCircunferencia.pdb
+C:\Users\davi.scosta\source\repos\AppAreaCircunferencia\AppAreaCircunferencia\obj\Debug\net8.0\AppAreaCircunferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davi.scosta\source\repos\AppAreaCircunferencia\AppAreaCircunferencia\obj\Debug\net8.0\AppAreaCircunferencia.AssemblyInfoInputs.cache
+C:\Users\davi.scosta\source\repos\AppAreaCircunferencia\AppAreaCircunferencia\obj\Debug\net8.0\AppAreaCircunferencia.AssemblyInfo.cs
+C:\Users\davi.scosta\source\repos\AppAreaCircunferencia\AppAreaCircunferencia\obj\Debug\net8.0\AppAreaCircunferencia.csproj.CoreCompileInputs.cache
+C:\Users\davi.scosta\source\repos\AppAreaCircunferencia\AppAreaCircunferencia\obj\Debug\net8.0\AppAreaCircunferencia.dll
+C:\Users\davi.scosta\source\repos\AppAreaCircunferencia\AppAreaCircunferencia\obj\Debug\net8.0\refint\AppAreaCircunferencia.dll
+C:\Users\davi.scosta\source\repos\AppAreaCircunferencia\AppAreaCircunferencia\obj\Debug\net8.0\AppAreaCircunferencia.pdb
+C:\Users\davi.scosta\source\repos\AppAreaCircunferencia\AppAreaCircunferencia\obj\Debug\net8.0\AppAreaCircunferencia.genruntimeconfig.cache
+C:\Users\davi.scosta\source\repos\AppAreaCircunferencia\AppAreaCircunferencia\obj\Debug\net8.0\ref\AppAreaCircunferencia.dll

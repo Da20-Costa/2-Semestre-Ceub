@@ -1,0 +1,14 @@
+C:\Users\davi.scosta\source\repos\AppSaudacao\AppSaudacao\bin\Debug\net8.0\AppSaudacao.exe
+C:\Users\davi.scosta\source\repos\AppSaudacao\AppSaudacao\bin\Debug\net8.0\AppSaudacao.deps.json
+C:\Users\davi.scosta\source\repos\AppSaudacao\AppSaudacao\bin\Debug\net8.0\AppSaudacao.runtimeconfig.json
+C:\Users\davi.scosta\source\repos\AppSaudacao\AppSaudacao\bin\Debug\net8.0\AppSaudacao.dll
+C:\Users\davi.scosta\source\repos\AppSaudacao\AppSaudacao\bin\Debug\net8.0\AppSaudacao.pdb
+C:\Users\davi.scosta\source\repos\AppSaudacao\AppSaudacao\obj\Debug\net8.0\AppSaudacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davi.scosta\source\repos\AppSaudacao\AppSaudacao\obj\Debug\net8.0\AppSaudacao.AssemblyInfoInputs.cache
+C:\Users\davi.scosta\source\repos\AppSaudacao\AppSaudacao\obj\Debug\net8.0\AppSaudacao.AssemblyInfo.cs
+C:\Users\davi.scosta\source\repos\AppSaudacao\AppSaudacao\obj\Debug\net8.0\AppSaudacao.csproj.CoreCompileInputs.cache
+C:\Users\davi.scosta\source\repos\AppSaudacao\AppSaudacao\obj\Debug\net8.0\AppSaudacao.dll
+C:\Users\davi.scosta\source\repos\AppSaudacao\AppSaudacao\obj\Debug\net8.0\refint\AppSaudacao.dll
+C:\Users\davi.scosta\source\repos\AppSaudacao\AppSaudacao\obj\Debug\net8.0\AppSaudacao.pdb
+C:\Users\davi.scosta\source\repos\AppSaudacao\AppSaudacao\obj\Debug\net8.0\AppSaudacao.genruntimeconfig.cache
+C:\Users\davi.scosta\source\repos\AppSaudacao\AppSaudacao\obj\Debug\net8.0\ref\AppSaudacao.dll
