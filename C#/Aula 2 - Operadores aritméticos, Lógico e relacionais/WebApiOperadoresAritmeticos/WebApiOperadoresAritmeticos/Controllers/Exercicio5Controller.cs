@@ -9,7 +9,7 @@ namespace WebApiOperadoresAritmeticos.Controllers
         {
             double saldoReajustado;
             saldoReajustado = saldo * 1.01;
-            return $"O novo saldo é: {novoSaldo}";
+            return $"O novo saldo é: {saldoReajustado}";
         }
     }
 }
