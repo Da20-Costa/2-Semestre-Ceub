@@ -3,7 +3,7 @@
     public class Funcionario
     {
         private string nome;
-        private double salario;
+        protected double salario;
 
         public string Nome { get => nome; set => nome = value; }
 
@@ -11,6 +11,11 @@
         {
             salario = horas * 100;
             return salario;
+        }
+
+        public virtual double Bonificacao()
+        {
+            return salario * 0.1;
         }
     }
 }
